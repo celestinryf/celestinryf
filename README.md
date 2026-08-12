@@ -26,5 +26,5 @@ Currently a Software Engineering Intern at UiPath working on the Insights CLI.
 
 ## GitHub Stats
 
-![Celestin's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestinryf&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celestinryf&layout=compact)
+![Celestin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celestinryf)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celestinryf)
