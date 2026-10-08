@@ -15,7 +15,6 @@ Currently a Software Engineering Intern at UiPath working on the Insights CLI.
 
 <!-- Update as your projects change -->
 - 🔧 Extending the UiPath Insights CLI (`uip insights`)
-- 📚 Learning more about agentic developer tooling
 
 ## Links
 
