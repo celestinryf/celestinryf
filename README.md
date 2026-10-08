@@ -20,9 +20,9 @@ Currently a Software Engineering Intern at UiPath working on the Insights CLI.
 ## Links
 
 <!-- Replace the placeholder URLs with your real ones -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-site.example.com)
-- ✉️ [Email](mailto:you@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/celestinryf)
+- 🌐 [Portfolio](https://celestinryf.com)
+- ✉️ [Email](mailto:celestinryf@gmail.com)
 
 ## GitHub Stats
 
