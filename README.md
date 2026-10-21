@@ -1,7 +1,7 @@
 # Hi, I'm Celestin 👋
 
 <!-- Edit this intro to make it yours -->
-Currently a Software Engineering Intern at UiPath working on the Insights CLI.
+Previously a SWE Intern at UiPath, UWT, & a startup
 
 ## Tools I have used
 
