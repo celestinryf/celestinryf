@@ -14,7 +14,8 @@ Previously a SWE Intern at UiPath, UWT, & a startup
 ## Currently working on
 
 <!-- Update as your projects change -->
-- 🔧 Extending the UiPath Insights CLI (`uip insights`)
+- AWS Cost Optimizer
+- Notes App (Integrated with Word, Excel, supports all file types for viewing and editing, git versioning)
 
 ## Links
 
